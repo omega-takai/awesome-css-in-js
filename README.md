@@ -25,6 +25,7 @@
 ## References
 
 - [Styling: CSS-in-JS | Next.js](https://nextjs.org/docs/app/building-your-application/styling/css-in-js)
+- [State of CSS 2023: CSS-in-JS](https://2023.stateofcss.com/ja-JP/css-in-js/)
 - [npm trends: Compare NPM package downloads](https://npmtrends.com/)
 
 ## Thanks
